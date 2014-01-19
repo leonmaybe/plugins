@@ -1,0 +1,14 @@
+*.cndw.com
+*.dvbbs.net
+www.370kan.com##DIV[id="ShowDIV"]
+www.360doc.com/js/*
+p.tanx.com/*
+www.verydemo.com##IFRAME[id="cproIframe5"]
+www.verydemo.com##IFRAME[id="cproIframe4"]
+weibo.com##DIV[class="theNewTip theNewTip_2"]
+weibo.com##DIV[class="theNewTip theNewTip_2"]
+www.youcan.cc##DIV[id="jiathis_share_slide"][class="jiathis_share_slide jiathis_share_32x32 jiathis_default_pos"]
+*.baidu*.com
+*.twcczhu.com
+*.51.la
+js/ads*
